@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ktx203/ktx203.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+		<title>poster</title>
+	
+		<style>
 
-### Markdown
+        h1 {text-align: center; 
+        	font-size: 60px; 
+        	font-family: "Lucida Console", "Courier New", monospace; 
+        	color: darksalmon;}
+		h1>span {background-color: green}
+		h2 {color: rebeccapurple; 
+			font-size: 40px; 
+			text-align: center; 
+			font-family: "Lucida Console", "Courier New", monospace;}
+		body {background-color: darksalmon;}
+		main {background-color: white}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+		</style>
+</head>
 
-```markdown
-Syntax highlighted code block
+<body>
 
-# Header 1
-## Header 2
-### Header 3
+	<main>
+		<br>
+		<h1><span>John Berger</span></h1>
+		<h2>Ways of Seeing	</h2>
+	<hr size="8" width="100%" color="black">
+	<br>
+	<br>
+	<hr size="8" width="80%" color="black">
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+	&gt; 
+	<img src="./poster_files/Free-Public-Domain-Watching-Eye-Image-GraphicsFairy.jpg" width="200" height="200">
+	
+	<img src="./poster_files/article_1064x.jpg" style="
+	border: 30px solid #DCDF3D;
+	width=" 460x""="" height="380px" align="right">
+	
+	<!---
+	<img src="https://pbs.twimg.com/media/Eg6tL3IXsAE81nk.jpg"
 
-**Bold** and _Italic_ and `Code` text
+	width="600px"
+	height="350px"
+	align="right"
+	align="bottom"
+	
+	> 
+	--->
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<img src="./poster_files/lYFWUYk.png" width="600px" height="100px" align="right">
 
-[Link](url) and ![Image](src)
-```
+	<div style="position: absolute;left: 0px; top:0px; z-index: 2;">
+		<svg style="width: 2000px; height: 2000px;">
+    	<line x1="190" y1="540" x2="1275" y2="889" style="stroke:rgb(0,0,0);stroke-width:8"></line>
+    	<!---<rect width="2000" height="100" style="fill:rgb(0,0,255);stroke-width:8;stroke:rgb(0,0,0)" /> --->   
+		</svg>
+	</div>
+	<hr size="8" width="100%" color="black">
+	</main>
+	
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ktx203/ktx203.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
