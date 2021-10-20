@@ -16,9 +16,8 @@ body{
 
 #starry{
   width:  750px;
-  position: relative;
-  top:  10px;
-  left:  0px;
+  display: inline-flex;
+  justify-content: flex-start;
 }
 
 #starry2{
