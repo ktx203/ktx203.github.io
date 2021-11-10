@@ -1,0 +1,48 @@
+body {
+  background-color: hotpink;
+}
+
+h1 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 55px;
+  text-align: center;
+}
+
+h2{
+  font-family: "Helvetica", sans-serif;
+  font-size: 45px
+
+}
+
+h3{
+  font-family: "Times New Roman", serif;
+  font-size: 20px;
+  text-align:  right;
+  margin: 0;
+}
+
+p {
+  font-family: "Helvetica", sans-serif;
+  font-size: 35px;
+}
+
+#assignmentInfo{
+  background-color: lightblue;
+}
+
+.XYZ{
+  text-align: center;
+}
+
+#part1{
+  background-color: white;
+  border-width: 2px;
+  border-style: dotted;
+  border-color: limegreen;
+}
+
+#part2{
+  background-color: darkseagreen;
+  font-color: white;
+
+}

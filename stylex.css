@@ -1,0 +1,96 @@
+#home {
+  background-color: lightgray;
+  background-image: url("constellation.png");
+}
+
+body{
+    background-color: lightgray;
+}
+
+#backlink {
+  position: relative;
+  top:  0px;
+  left: 0px;
+}
+
+
+#starry{
+  width:  750px;
+  position: relative;
+  top:  10px;
+  left:  0px;
+}
+
+#starry2{
+  width:  750px;
+  position: relative;
+  top:  10px;
+  left:  0px;
+}
+
+h {
+  text-align: center;
+  font-size: 50px;
+}
+
+img {
+  position: relative;
+  top: 225px;
+  left: 525px;
+}
+
+#img2 {
+  position: relative;
+  top: 320px;
+  left: 390px;
+}
+
+#img3 {
+  position: relative;
+  top: 530px;
+  left: 225px;
+}
+
+#img4 {
+  position: relative;
+  top:545px;
+  left: 440px;
+}
+
+#img5 {
+  position: relative;
+  top: 230px;
+  left: 455px;
+}
+
+#img6 {
+  position: relative;
+  top: 405px;
+  left: 530px;
+}
+
+#img7 {
+  position: relative;
+  top: 305px;
+  left: 550px;
+}
+
+#img8 {
+  position: relative;
+  top: 470px;
+  left: 530px;
+}
+
+.name {
+  text-align: center;
+  font-size: 30px;
+}
+
+.third {
+  font-size: 40px;
+  margin: 1px;
+}
+
+p {
+  font-size:  30px;
+}
